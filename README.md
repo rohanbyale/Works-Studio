@@ -1,3 +1,3 @@
 # Works-Studio
 
-live Preview --https://developers.google.com/profile/u/rohanbyale
+live Preview -- https://works-studioro.netlify.app/
